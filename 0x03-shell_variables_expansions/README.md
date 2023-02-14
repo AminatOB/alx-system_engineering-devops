@@ -1,15 +1,38 @@
-**0x03 Shell, init files, variables and expansions**
-0. <o>
-1. Hello you
-2. The path to success is to take massive, determined action
-3. If the path be beautiful, let us not ask where it leads
-4. Global variables
-5. Local variables
-6. Local variable
-7. Global variable
-8. Every addition to true knowledge is an addition to human power
-9. Divide and rule
-10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
-11. There are 10 types of people in the world -- Those who understand binary, and those who don't
-12. Combination
-13. Floats
+***0x03-shell, init files, variables and expansions***
+
+0. - Create a script that creates an alias.
+
+1. - Create a script that prints hello user, where user is the current Linux user.
+
+2. - The path to success is to take massive, determined action mandatory
+
+3. - If the path be beautiful, let us not ask where it leads mandatory
+
+4. - Create a script that lists environment variables.
+
+5. - Create a script that lists all local variables.
+
+6. - Create a script that creates a new local variable.
+
+7. - Create a script that creates a new global variable.
+
+8. - Every addition to true knowledge is an addition to human power mandatory
+
+9. - Write a script that divides POWER by DIVIDE and prints the result, followed by a new line.
+
+10. - Love is anterior to life, posterior to death, initial of creation, and the exponent of breath mandatory
+
+11. - Write a script that converts a number from base 2 to base 10.
+
+12. - Create a script that prints all possible combinations of two letters, except oo.
+
+13. - Write a script that prints a number with two decimal places.
+
+14. - Write a script that converts a number from base 10 to base 16.
+
+15. - Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+16. - Write a script that prints every other line from the input, starting with the first line.
+
+17. - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
